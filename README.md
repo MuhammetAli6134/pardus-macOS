@@ -8,6 +8,12 @@ Muhammet Ali ARSLAN Tarafından Pardus 21.4 ve Sonrası için Yapılmış Mükem
 
 ## Bilgisayarınıza Kurun
 
+Dock Kurulumu
+
+```bash
+sudo apt install plank
+```
+
 Projeyi klonlayın
 
 ```bash
