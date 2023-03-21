@@ -14,24 +14,6 @@ Dock Kurulumu
 sudo apt install plank
 ```
 
-Projeyi klonlayın
-
-```bash
-  git clone https://pardus-macOS
-```
-
-Proje dizinine gidin
-
-```bash
-  cd pardus-macOS
-```
-
-Gerekli paketleri yükleyin
-
-```bash
-  ?
-```
-
 Yeniden Başlatın
 
 ```bash
