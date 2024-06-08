@@ -8,28 +8,4 @@ Muhammet Ali ARSLAN Tarafından Pardus 21.4 ve Sonrası için Yapılmış Mükem
 
 ## Bilgisayarınıza Kurun
 
-
---------------
-!!GNOME GEREKİR!!
---------------
-
-Yuva Kurulumu (Plank Dock)
-
-```bash
-sudo apt install plank
-```
-GTK Teması (White Sur)
-
-https://github.com/vinceliuice/WhiteSur-gtk-theme
-
-Temayı ve simgeleri kurduktan Sonra 
- Launchpad İkonu;
- 
- https://www.gnome-look.org/p/1399398/
- Launchpad-ICON-for-Plank.zip Dosyasını Bulun Ve indirin
- 
- Finder Yapımı:
- Arch Menüyü Kurun Ve kişiselleştirin Apple İkonu veya kendi ikonunuzu ekleyebilirsiniz
- Gnome Extensions'dan Blur My Shell Uygulamasını yükleyin
- 
- Shell'İ BİRAZ KURCALAYIN nASIL pAYLAŞACAĞIMI bULAMADIM :D
+Proje Desteği 12.12.2022 de bitti
